@@ -230,7 +230,10 @@ body {
 
 /*____________FILTER___________*/
 
-.filter {
+.section {
+}
+
+.project-title {
 }
 
 .filter-list {
@@ -265,9 +268,6 @@ body {
 }
 
 /*____________PROJECT-CARD___________*/
-
-.project-card {
-}
 
 .project-card-list {
 }
